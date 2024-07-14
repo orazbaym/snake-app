@@ -1,7 +1,3 @@
-Here is a sample README for your Snake Game GitHub repository:
-
----
-
 # Snake Game
 
 Welcome to the Snake Game! This is a classic implementation of the popular snake game using Python.
