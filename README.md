@@ -45,7 +45,3 @@ This game is a simple yet fun implementation of the traditional Snake game. The 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License.
